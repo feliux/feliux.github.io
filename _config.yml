@@ -1,1 +1,11 @@
+title: Félix RL # your name (or website title) here
+#logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Hi 
+  <br><br>
+  I'm Félix 
+  <br><br>
+  <a href="https://www.linkedin.com/in/felagonell/">View My LinkedIn Profile</a> 
+  
 theme: jekyll-theme-hacker
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here

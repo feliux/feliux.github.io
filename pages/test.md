@@ -1,3 +1,3 @@
-### Test
+### Foo
 
-This is a test file with a [reference](./sub-page/test.md)
+An awesome article which point to this [reference](./sub-page/test.md)
